@@ -8,7 +8,7 @@
 Develop branch build status
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/a-nicolson/devops/main.yml?branch=develop)
 
-Master build status
+Master branch build status
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/a-nicolson/devops/main.yml?branch=master)
 
 
