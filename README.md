@@ -5,7 +5,7 @@
 
 [![Releases](https://img.shields.io/github/release/a-nicolson/devops/all.svg?style=flat-square)](https://github.com/a-nicolson/devops/releases)
 
-Develop build status
+Develop branch build status
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/a-nicolson/devops/main.yml?branch=develop)
 
 Master build status
