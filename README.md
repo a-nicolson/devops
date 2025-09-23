@@ -1,4 +1,4 @@
 Adding some text
 adding some text, again
 
-[workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
+[![A workflow for my Hello World App](https://github.com/a-nicolson/devops/actions/workflows/main.yml/badge.svg)](https://github.com/a-nicolson/devops/actions/workflows/main.yml)
